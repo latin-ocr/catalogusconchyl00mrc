@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusconchyl00mrc_0007.png"; bbox 0 0 2173 3395; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 897 1374 1088 1404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 897 1374 1088 1404">
+     <span class='ocr_line' id='line_1_1' title="bbox 897 1374 1088 1404; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 897 1374 1088 1404; x_wconf 66' lang='lat' dir='ltr'><strong>Errata.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 579 1463 1151 1786">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 579 1463 1151 1786">
+     <span class='ocr_line' id='line_1_2' title="bbox 579 1463 1090 1511; baseline -0.002 -11"><span class='ocrx_word' id='word_1_2' title='bbox 579 1466 641 1501; x_wconf 66' lang='grc' dir='ltr'><strong>ΝΡ,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 692 1469 747 1500; x_wconf 78' lang='grc'><strong>48.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 784 1465 860 1511; x_wconf 83' lang='lat' dir='ltr'>lege</span> <span class='ocrx_word' id='word_1_5' title='bbox 893 1463 1090 1500; x_wconf 84' lang='lat' dir='ltr'><strong>Thersites.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 671 1535 984 1572; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 671 1540 746 1572; x_wconf 83' lang='grc'><strong>134.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 797 1556 839 1564; x_wconf 92' lang='grc'>-</span> <span class='ocrx_word' id='word_1_8' title='bbox 888 1535 984 1572; x_wconf 83' lang='lat' dir='ltr'>albo.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 670 1607 1151 1655; baseline 0 -12"><span class='ocrx_word' id='word_1_9' title='bbox 670 1612 746 1643; x_wconf 81' lang='lat'><strong>187.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 800 1627 835 1632; x_wconf 95' lang='lat'><strong>--</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 889 1607 1151 1655; x_wconf 80' lang='lat' dir='ltr'><strong>Charpentieri.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 674 1681 1045 1715; baseline 0.003 -2"><span class='ocrx_word' id='word_1_12' title='bbox 674 1681 752 1713; x_wconf 74' lang='lat'><strong>343.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 807 1698 843 1703; x_wconf 89' lang='lat'><strong>-—</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 898 1689 1045 1715; x_wconf 87' lang='lat' dir='ltr'><strong>nuceus.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 672 1753 928 1786; baseline 0.004 -2"><span class='ocrx_word' id='word_1_15' title='bbox 672 1753 751 1786; x_wconf 77' lang='lat'><strong>311.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 802 1769 846 1775; x_wconf 85' lang='lat'><strong>—-</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 897 1754 928 1785; x_wconf 83' lang='lat'><strong>3.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
